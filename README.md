@@ -12,3 +12,10 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 + Create a dashboard according to the requirements provided by stakeholders in the business review meeting. 
 + Create relevant insights not provided in the metric list/stakeholder meeting.
 
+## Data Model
+
+
+## Dashboard
+
+
+## Insights Taken from Dashboard
