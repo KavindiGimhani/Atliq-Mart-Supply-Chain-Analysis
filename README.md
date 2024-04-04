@@ -22,3 +22,17 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 
 
 ## Insights Taken from Dashboard
+
+•	Atliq mart has received totally 32K orders from 1st of March to 31 of August 2022.
+•	To 31st August, 9K orders have delivered on time in full quantity.
+•	Total 17K orders have delivered in full quantity but 8K orders from them were late while 10K orders on time but in partial quantity.
+•	All IF%, OT% and OTIF% rates are lower than the target levels.
+•	In city level split, IF%, OT% and OTIF% rates show approximately same levels.
+•	The highest number of orders received from Ahmedabad customers and highest order quantity for dairy products.
+•	57K order lines have created reference to those 32K orders. 38K order lines have completed the delivery in full quantity.
+•	However, when considering the quantity 97% have delivered.
+•	Butter 250, biscuits 250 and tea 250 show lower LIFR%. 
+o	It may be due to issues in production process, getting higher number of orders than expected or errors when calculating delivary dates.
+•	Top 5 customers are Coolblue, Lotus Mart, Acclaimed stores, Vijey stores, and Rel Fresh who placed the highest number of orders.
+•	Among them, Orders of Coolblue, Lotus Mart and Acclaimed stores getting delay average 2 days approximately.
+•	Those delays can cause to drop the orders and not renewing the contract by the customers.
