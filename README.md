@@ -20,6 +20,7 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 
 ## Dashboard
 
+![Screenshot sc1](https://github.com/KavindiGimhani/Atliq-Mart-Supply-Chain-Analysis/assets/72389185/58f6552b-81ac-4998-b068-e246189383af)
 
 
 
